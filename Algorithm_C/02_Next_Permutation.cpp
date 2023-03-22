@@ -4,11 +4,10 @@ using namespace std;
 
 int main()
 {
-    //¼ø¿­
+    //ìˆœì—´
     // nPr = n! / (n-r)!
-    // n°³Áß rÀ» »ÌÀ½
+    // nê°œì¤‘ rì„ ë½‘ìŒ
    
-
     cout << "hello world";
 
     return 0;
