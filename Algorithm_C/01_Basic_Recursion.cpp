@@ -12,7 +12,7 @@ int Fibo(int n) {
     return Fibo(n - 1) + Fibo(n - 2);
 }
 
-int main()
+int main1()
 {
     cout << Fact(5) << '\n';
     cout << Fibo(5) << '\n';

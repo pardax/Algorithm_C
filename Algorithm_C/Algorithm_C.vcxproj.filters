@@ -13,16 +13,22 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="문제">
+      <UniqueIdentifier>{ae87ab58-eab6-415d-afce-da23924dc091}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="01_Basic_Recursion.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="02_Next_Permutation.cpp">
+    <ClCompile Include="02_Permutation.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="00_Main_Base.cpp">
       <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="01_Seven_Gnome.cpp">
+      <Filter>문제</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

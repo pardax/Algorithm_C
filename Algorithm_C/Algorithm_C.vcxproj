@@ -129,7 +129,8 @@
   <ItemGroup>
     <ClCompile Include="00_Main_Base.cpp" />
     <ClCompile Include="01_Basic_Recursion.cpp" />
-    <ClCompile Include="02_Next_Permutation.cpp" />
+    <ClCompile Include="01_Seven_Gnome.cpp" />
+    <ClCompile Include="02_Permutation.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
